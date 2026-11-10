@@ -70,10 +70,10 @@ Data Structures
 ----------------------------------------------------------------------------------------------
 Instructions for using this program
 
-Open or create a Dart program
-Copy the source code from main.dart
- Paste the code into the editor
-Click the Run button
+1. Open or create a Dart program
+2. Copy the source code from main.dart
+3. Paste the code into the editor
+4. Click the Run button
 
 ----------------------------------------------------------------------------------------------
 Example Scenario
