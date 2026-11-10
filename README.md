@@ -75,12 +75,12 @@ Data Structures
 
 ----------------------------------------------------------------------------------------------
 **Example Scenario**
-**Adding resources material and Register a participant**
+**Example 1: Adding resources material and Register a participant**
 
 Welcome to the Community Learning Center!
 
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -99,8 +99,8 @@ Enter resource category: Programming Language
 Resource added successfully!
 Generated ID: R1
 
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -120,8 +120,8 @@ Participant registered successfully!
 Generated ID: P1
 
 **Example 2: Borrowing a resource**
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -138,8 +138,8 @@ Enter participant ID: P1
 Enter resource ID: R1
 Resource borrowed successfully!
 
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -157,8 +157,8 @@ Enter resource ID: R1
 Error: Resource is already borrowed.
 
 **Example 3: Invalid Inputs**
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -171,8 +171,8 @@ Error: Resource is already borrowed.
 Enter your choice (1-7): 10
 Invalid choice. Please select from 1 to 7.
 
-====================================
- COMMUNITY LEARNING CENTER SYSTEM
+==================================== 
+COMMUNITY LEARNING CENTER SYSTEM 
 ====================================
 1. Add Learning Resource
 2. Register Participant
