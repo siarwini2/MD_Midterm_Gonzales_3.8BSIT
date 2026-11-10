@@ -157,6 +157,7 @@ Enter your choice (1-7): 3
 --- BORROW RESOURCE ---
 Enter participant ID: P2
 Enter resource ID: R1
+
 Error: Resource is already borrowed.
 
 Example 3: Invalid Inputs
@@ -173,6 +174,7 @@ Example 3: Invalid Inputs
 7. Exit
 ====================================
 Enter your choice (1-7): 10
+
 Invalid choice. Please select from 1 to 7.
 
 ====================================
@@ -187,6 +189,7 @@ Invalid choice. Please select from 1 to 7.
 7. Exit
 ====================================
 Enter your choice (1-7): 3
+
 
 --- BORROW RESOURCE ---
 Enter participant ID: P2
