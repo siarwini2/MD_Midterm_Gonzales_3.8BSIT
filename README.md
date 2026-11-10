@@ -1,13 +1,13 @@
-**Midterm Laboratory Examination
-Dart Programming Fundamentals (Object-Oriented Programming)**
+Midterm Laboratory Examination
+Dart Programming Fundamentals (Object-Oriented Programming)
 
 Gonzales, Arwin H.
 3.8 BSIT
 
-**Application Title**
+Application Title
 Community Learning Center Management System
 
-**About**
+About
 The Community Learning Center Management System is a Dart
 console-based application designed to manage learning
 resources and participants.
@@ -16,7 +16,8 @@ The application allows users to add learning resources,
 register participants, borrow and return resources, search
 for resources, and view all registered records.
 
-**Implemented Features**
+Implemented Features
+
 1. Add Learning Resources
    - Register learning resources with a title and category.
    - Automatically generate resource IDs.
@@ -67,20 +68,22 @@ Data Structures
 - Lists: Store learning resources and participants.
 - Maps: Retrieve resources and participants using their IDs.
 ----------------------------------------------------------------------------------------------
-**Instructions for using this program**
-1. Open or create a Dart program
-2. Copy the source code from main.dart
-3. Paste the code into the editor
-4. Click the Run button
+Instructions for using this program
+
+Open or create a Dart program
+Copy the source code from main.dart
+ Paste the code into the editor
+Click the Run button
 
 ----------------------------------------------------------------------------------------------
-**Example Scenario**
-**Example 1: Adding resources material and Register a participant**
+Example Scenario
+
+Adding resources material and Register a participant
 
 Welcome to the Community Learning Center!
 
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -99,8 +102,8 @@ Enter resource category: Programming Language
 Resource added successfully!
 Generated ID: R1
 
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -119,9 +122,9 @@ Enter email address: arwingonzales@gmail.com
 Participant registered successfully!
 Generated ID: P1
 
-**Example 2: Borrowing a resource**
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+Example 2: Borrowing a resource 
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -138,8 +141,8 @@ Enter participant ID: P1
 Enter resource ID: R1
 Resource borrowed successfully!
 
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -156,9 +159,10 @@ Enter participant ID: P2
 Enter resource ID: R1
 Error: Resource is already borrowed.
 
-**Example 3: Invalid Inputs**
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+Example 3: Invalid Inputs
+
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -171,8 +175,8 @@ COMMUNITY LEARNING CENTER SYSTEM
 Enter your choice (1-7): 10
 Invalid choice. Please select from 1 to 7.
 
-==================================== 
-COMMUNITY LEARNING CENTER SYSTEM 
+====================================
+ COMMUNITY LEARNING CENTER SYSTEM
 ====================================
 1. Add Learning Resource
 2. Register Participant
@@ -188,3 +192,6 @@ Enter your choice (1-7): 3
 Enter participant ID: P2
 Enter resource ID: R1
 Error: Resource is already borrowed.
+
+
+
